@@ -1,0 +1,1 @@
+new Accordion('.catalog__accordion');
